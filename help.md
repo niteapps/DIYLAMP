@@ -24,8 +24,8 @@
    
   3. You can also add a custom mode, freely set the color, speed and other parameters of the mode
   
-    ![home image](https://github.com/niteapps/DIYLAMP/blob/main/enhelp--007.jpg)
+   ![home image](https://github.com/niteapps/DIYLAMP/blob/main/enhelp--007.jpg)
     
   4. On the local music page, you can turn on and off the microphone function that comes with the device hardware, a variety of music rhythm effects, and let the light bar change with the sound.
   
-    ![home image](https://github.com/niteapps/DIYLAMP/blob/main/enhelp--005.jpg)
+   ![home image](https://github.com/niteapps/DIYLAMP/blob/main/enhelp--005.jpg)
